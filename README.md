@@ -18,6 +18,16 @@ I usually work with **C#**, but sometimes I use **C++** and **Python**.
 
 [LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
+### Likes
+
+- Granblue Fantasy: Relink
+- Wangan Midnight Maximum Tune
+
+### Dislikes
+
+- JavaScript manual deobfuscating
+- Regular expressions
+
 ### Contact me
 
 email: llam@llamawa.re
