@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
 
-<!--
-**KawaiiFiveO/KawaiiFiveO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop mods and modding tools for games.  
+ゲームのModやModツールの開発をしています。
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I usually work with **C#**, but sometimes I use **C++** and **Python**.
+
+### Games I'm working on
+
+- Library of Ruina
+- The Coffin of Andy and Leyley
+
+### My projects
+
+[Book of Malleus Draconia](https://steamcommunity.com/sharedfiles/filedetails/?id=3150803241) - a Library of Ruina skin
+
+[LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
+
+### Contact me
+
+email: llam@llamawa.re
