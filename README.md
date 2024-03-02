@@ -5,7 +5,7 @@ I develop mods and modding tools for games.
 
 ### Languages
 
-I usually work with **C#**, but sometimes I use **C++** and **Python**.
+I usually work with C#, but sometimes I use C++ and Python.
 
 ### Games I'm working on
 
@@ -18,12 +18,12 @@ I usually work with **C#**, but sometimes I use **C++** and **Python**.
 
 [LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
-### Likes
+### Games I enjoy
 
 - Granblue Fantasy: Relink
 - Wangan Midnight Maximum Tune
 
-### Dislikes
+### Pet peeves
 
 - JavaScript manual deobfuscating
 - Regular expressions
