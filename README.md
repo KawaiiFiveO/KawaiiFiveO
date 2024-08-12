@@ -21,7 +21,8 @@ I usually work with C#, but sometimes I use C++ and Python.
 ### Games I enjoy
 
 - Granblue Fantasy: Relink
-- Wangan Midnight Maximum Tune
+- Wangan Midnight Maximum Tune 5DX+
+- Limbus Company
 
 ### Pet peeves
 
