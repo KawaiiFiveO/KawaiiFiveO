@@ -18,6 +18,8 @@ I usually work with C#, but sometimes I use C++ and Python.
 
 [LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
+[FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a Discord bot
+
 ### Games I enjoy
 
 - Granblue Fantasy: Relink
