@@ -1,7 +1,8 @@
 # About Me
 
 I develop mods and modding tools for games.  
-ゲームのModやModツールの開発をしています。
+ゲームのModやModツールの開発をしています。  
+Commissions are currently **open**.
 
 ### Languages
 
@@ -33,5 +34,4 @@ I usually work with C#, but sometimes I use C++ and Python.
 
 ### Contact me
 
-email: llam@llamawa.re  
-discord: [by inquiry](https://tally.so/r/wADLQk)
+[by inquiry](https://tally.so/r/mOYzBM)
