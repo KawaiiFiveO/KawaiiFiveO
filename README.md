@@ -33,4 +33,5 @@ I usually work with C#, but sometimes I use C++ and Python.
 
 ### Contact me
 
-email: llam@llamawa.re
+email: llam@llamawa.re  
+discord: [by inquiry](https://tally.so/r/wADLQk)
