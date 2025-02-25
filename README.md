@@ -21,11 +21,14 @@ I usually work with C#, but sometimes I use C++ and Python.
 
 [FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a Discord bot
 
+[RPG Damage Tracker](https://onehalf.dev/damage-tracker/) - for tabletop RPGs
+
 ### Games I enjoy
 
 - Granblue Fantasy: Relink
 - Wangan Midnight Maximum Tune 5DX+
 - Limbus Company
+- Nine Sols
 
 ### Pet peeves
 
