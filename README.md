@@ -1,8 +1,7 @@
 # About Me
 
 I develop mods and modding tools for games.  
-ゲームのModやModツールの開発をしています。  
-Commissions are currently **open**.
+ゲームのModやModツールの開発をしています。
 
 ### Websites
 
@@ -21,21 +20,24 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 
 ### My projects
 
+[Adeon](https://github.com/KawaiiFiveO/Adeon) - a customizable chess engine
+
 [Book of Malleus Draconia](https://steamcommunity.com/sharedfiles/filedetails/?id=3150803241) - a Library of Ruina character skin
 
 [LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
 [FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a SoftEther VPN + Discord bot
 
-[RPG Damage Tracker](https://onehalf.dev/damage-tracker/) - for tabletop RPGs
+[Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
 ### Games I enjoy
 
 - Granblue Fantasy: Relink
-- Wangan Midnight Maximum Tune 5DX+
+- Wangan Midnight Maximum Tune 5DX+/6
 - Limbus Company
 - Nine Sols
-- Team Fortress 2
+- Deep Rock Galactic
+- Ace Combat (PS2 trilogy)
 
 ### Pet peeves
 
