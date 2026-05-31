@@ -15,10 +15,15 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 ### Games I've made mods for
 
 - Library of Ruina
+- Suzerain
 - The Coffin of Andy and Leyley
 - The Sekimeiya: Spun Glass
 
 ### My projects
+
+[Suzerain Unbound](https://github.com/KawaiiFiveO/SuzerainUnbound) - a Suzerain quality of life mod
+
+[Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
 [Adeon](https://github.com/KawaiiFiveO/Adeon) - a customizable chess engine
 
@@ -27,8 +32,6 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 [LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
 [FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a SoftEther VPN + Discord bot
-
-[Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
 ### Games I enjoy
 
