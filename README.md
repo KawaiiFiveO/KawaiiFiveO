@@ -21,7 +21,7 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 
 ### My projects
 
-[Suzerain Unbound](https://github.com/KawaiiFiveO/SuzerainUnbound) - a Suzerain quality of life mod
+[Suzerain Unbound](https://onehalf.dev/SuzerainUnbound/) - a Suzerain quality of life mod
 
 [Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
