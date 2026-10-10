@@ -18,10 +18,13 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 - Suzerain
 - The Coffin of Andy and Leyley
 - The Sekimeiya: Spun Glass
+- H2Overdrive
 
 ### My projects
 
 [Suzerain Unbound](https://onehalf.dev/SuzerainUnbound/) - a Suzerain quality of life mod
+
+[Project H2O](https://github.com/ProjectH2O/ProjectH2O) - a complete H2Overdrive emulation package built on OpenParrot
 
 [Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
@@ -41,6 +44,8 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 - Nine Sols
 - Deep Rock Galactic
 - Ace Combat (PS2 trilogy)
+- H2Overdrive
+- Crimson Desert
 
 ### Pet peeves
 
