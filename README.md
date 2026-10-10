@@ -32,7 +32,7 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 
 [Book of Malleus Draconia](https://steamcommunity.com/sharedfiles/filedetails/?id=3150803241) - a Library of Ruina character skin
 
-[LlamaToolkit 2.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
+[LlamaToolkit 3.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
 [FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a SoftEther VPN + Discord bot
 
@@ -46,6 +46,7 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 - Ace Combat (PS2 trilogy)
 - H2Overdrive
 - Crimson Desert
+- Suzerain
 
 ### Pet peeves
 
