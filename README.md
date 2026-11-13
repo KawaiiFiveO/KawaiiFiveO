@@ -19,6 +19,7 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 - The Coffin of Andy and Leyley
 - The Sekimeiya: Spun Glass
 - H2Overdrive
+- Last Call BBS
 
 ### My projects
 
@@ -35,6 +36,10 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 [LlamaToolkit 3.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
 
 [FaustBot](https://github.com/KawaiiFiveO/FaustBot) - a SoftEther VPN + Discord bot
+
+[SysCall BBS](https://github.com/KawaiiFiveO/syscall-bbs) - a modloader for Last Call BBS
+
+[Yomiel](https://github.com/KawaiiFiveO/yomiel) - a Z-machine interpreter and story player
 
 ### Games I enjoy
 
