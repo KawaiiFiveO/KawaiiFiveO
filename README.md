@@ -29,8 +29,6 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 
 [Theia](https://llamawa.re/Theia/) - a NW.js decompilation plugin for Ghidra
 
-[Adeon](https://github.com/KawaiiFiveO/Adeon) - a customizable chess engine
-
 [Book of Malleus Draconia](https://steamcommunity.com/sharedfiles/filedetails/?id=3150803241) - a Library of Ruina character skin
 
 [LlamaToolkit 3.0](https://github.com/Llamaware/LlamaToolkit) - a TCAL decompilation toolkit
@@ -52,11 +50,6 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 - H2Overdrive
 - Crimson Desert
 - Suzerain
-
-### Pet peeves
-
-- JavaScript manual deobfuscating
-- Regular expressions
 
 ### Contact me
 
