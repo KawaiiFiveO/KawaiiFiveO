@@ -41,15 +41,15 @@ I usually work with C# and Python, but sometimes I use C++ or Java.
 
 ### Games I enjoy
 
+- Crimson Desert
+- Suzerain
 - Granblue Fantasy: Relink
 - Wangan Midnight Maximum Tune 5DX+/6
 - Limbus Company
-- Nine Sols
-- Deep Rock Galactic
 - Ace Combat (PS2 trilogy)
+- Sly Cooper (PS3 trilogy)
+- Last Call BBS
 - H2Overdrive
-- Crimson Desert
-- Suzerain
 
 ### Contact me
 
